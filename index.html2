@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>AI Business Buddy – Support</title>
+  </head>
+  <body>
+    <h1>AI Business Buddy – Support</h1>
+    <p>If you need help with the app, contact us anytime.</p>
+
+    <h2>Contact Support</h2>
+    <p>Email: support@aibbusinessbuddy.com</p>
+
+    <h2>Common Issues</h2>
+    <ul>
+      <li>App setup questions</li>
+      <li>Billing or subscription issues</li>
+      <li>AI not responding correctly</li>
+      <li>Dashboard or analytics problems</li>
+    </ul>
+
+    <p>We typically respond within 24 hours.</p>
+  </body>
+</html>
